@@ -1,4 +1,4 @@
-# Getting Started with GPU Programming
+# Day 01 : Getting Started with GPU Programming
 
 ## GPU Architecture
 
